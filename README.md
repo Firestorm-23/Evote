@@ -54,7 +54,7 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
+   git clone https://github.com/Firestorm-23/Evote.git
    cd dVoting
    ```
 
@@ -99,4 +99,9 @@ _Feel free to contribute._
 
 Best,
 
-[Bibek Aryal](https://arlbibek.github.io/)
+Aniket vishwakarma
+ujwal yadva
+rupesh tiwari
+bhemsen tiwari
+
+
